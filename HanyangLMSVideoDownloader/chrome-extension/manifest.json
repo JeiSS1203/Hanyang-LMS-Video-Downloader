@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Hanyang LMS Video Downloader",
+  "version": "1.0",
+  "permissions": ["webRequest", "nativeMessaging"],
+  "host_permissions": ["<all_urls>"],
+  "background": { "service_worker": "background.js" },
+  "icons": {
+    "16": "hytiger.png",
+    "32": "hytiger.png",
+    "48": "hytiger.png",
+    "128": "hytiger.png"
+  }
+}
