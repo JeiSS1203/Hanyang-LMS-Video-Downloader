@@ -33,10 +33,10 @@
    
    <img src="https://github.com/user-attachments/assets/74aa972a-6b58-48f8-8589-eedba7076a48" wigth="300" height="300"/>
 7. 왼쪽 아래의 **확장 프로그램 로드됨**과 함께 확장 프로그램이 다음과 같이 보인다면 확장 프로그램 설치 성공입니다.
-   이후 확장 프로그램의 ID를 복사해주세요.
+   이후 **확장 프로그램의 ID**를 복사해주세요.
    
    <img src="https://github.com/user-attachments/assets/b24c63a8-c53e-452f-aee0-77ebd2127a5c" wigth="200" height="200"/>
-8. 압축 해제한 폴더 내부 native_app 폴더의 install_and_register.bat을 관리자 권한으로 실행한 후, 복사한 ID를 붙여넣기합니다. (대체로 아래 경로에 있습니다. 경로를 그대로 복사해서 쓰셔도 가능합니다.)
+8. 압축 해제한 폴더 내부 native_app 폴더의 install_and_register.bat을 관리자 권한으로 실행한 후, **복사한 ID**를 붙여넣기합니다. (대체로 아래 경로에 있습니다. 경로를 그대로 복사해서 쓰셔도 가능합니다.)
 ~~~
 %UserProfile%\Downloads\HanyangLMSVideoDownloader\native_app\install_and_register.bat
 ~~~
