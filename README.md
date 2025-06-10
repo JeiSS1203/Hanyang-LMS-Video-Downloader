@@ -24,7 +24,7 @@
    <img src="https://github.com/user-attachments/assets/dfd5ad7a-7df2-465c-9490-ab8beefae4a1" wigth="20" height="20"/> 
 
 3. 다운로드 폴더에 저장된 압축파일을 압축 해제한다.
-4. 크롬 주소창에 **chrome://extenions** 로 들어간다.
+4. 크롬 주소창에 **chrome://extensions** 로 들어간다.
 5. 오른쪽 상단 **개발자 모드**를 그림과 같이 켜준다.
 
    <img src="https://github.com/user-attachments/assets/107fba6d-2de7-4804-94eb-69ab9bfe84e1" wigth="17" height="17"/>
