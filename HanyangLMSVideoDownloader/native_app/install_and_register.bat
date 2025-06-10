@@ -48,8 +48,8 @@ cd /d %~dp0
 ::--------------------------------------------
 :: 2) 사용자로부터 Chrome 확장 ID 입력
 ::--------------------------------------------
-::set /p EXT_ID=Chrome 확장 ID를 입력하세요 (예: abcdefghijklmnopabcdef...): 
-set "EXT_ID=eckiakojbfplibfdddblfgembodbgfkl"
+set /p EXT_ID=Chrome Extension ID를 입력하세요 (예: abcdefghijklmnopabcdef...): 
+::set "EXT_ID=eckiakojbfplibfdddblfgembodbgfkl"
 ::--------------------------------------------
 :: 3) 경로 변수 설정
 ::--------------------------------------------
